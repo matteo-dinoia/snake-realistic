@@ -1,0 +1,31 @@
+#COSTANTS
+numberSnakes:2:int
+stepDyingAnimation:2:int
+#dimension:20:int        #how many snake fit on screen 
+#pixelSpacing:50:int     #how big the snake
+rotationPower:8:int
+speed:300:int
+maxLengthSnake:1000:int
+
+fps:120:int    #do so that work seriusly
+cps:480:int
+
+#COMMAND
+playerLeft1  :a  :String
+playerRight1 :d  :String
+playerLeft2  :4  :String
+playerRight2 :6  :String
+playerLeft3  :j  :String
+playerRight3 :l  :String
+playerLeft4  :+  :String
+playerRight4 :-  :String
+
+#COLOR
+backgroundColor :f8f5ac  :String    #yellow
+playerColor1    :82f4a5  :String    #Green
+playerColor2    :adeff3  :String    #blue
+playerColor3    :c8adf3  :String    #violet
+playerColor4    :f8acda  :String    #Pink
+
+playerColor1    :000000  :String    #yellow
+playerColor2    :000FFF  :String    #Green
